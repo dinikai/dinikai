@@ -1,7 +1,4 @@
 <h1>dinikai</h1>
-<p>
-PAblo
-</p>
 📩 Мои контакты:
 <ul>
 <li>Telegram: q_dinikai</li>
