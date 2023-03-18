@@ -1,8 +1,7 @@
-<h1>dinikai</h1>
+# dinikai
 📩 Мои контакты:
-<ul>
-<li>Telegram: q_dinikai</li>
-</ul>
+  * Telegram: q_dinikai
+  * Discord: dinikai#0846
 
 <!---
 dinikai/dinikai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
