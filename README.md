@@ -1,6 +1,6 @@
 # dinikai
 📩 Мои контакты:
-  * Telegram: q_dinikai
+  * Telegram: zxra9
   * Discord: dinikai#0846
 
 <!---
